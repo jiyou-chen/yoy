@@ -1,26 +1,21 @@
-/*网站：中国出版协会简化网站
+/*网站：陈吉优的个人简历
  样式表文件名：pac.css
- 应用对象：edu_10_3_3.html
- */
+ 应用对象：11.html */
 body{color: #010101;
     background: #fff;
     margin-top: 0px;
     margin-left: 0px;
     margin-right: 0px;}
-body, html{font:12px Tahoma,Arial,sans-serif;
+body, html{font:50px Tahoma,Arial,sans-serif;
     display:block;}
-.body-top{height:297px;
-    background: url("b1.jpg");}
-.header,.header .logo{width: 960px;
-    margin: 0 auto;
-    height: 297px;
-    background: url("b2.jpg") no-repeat center;}
+.body-top{height:700px;
+    background: url("微信图片_20201223195020.jpg");}
 /*New Nav Style*/
 #nav ul{margin:0px;
     padding:0px;}
 #nav li{text-align: center;
-    font-size: 14px;
-    font-weight: 700;}
+    font-size: 35px;
+    font-weight:500;}
 #nav_wrap{width: 960px;
     overflow: hidden;
     padding-top: 223px;}
@@ -37,7 +32,7 @@ body, html{font:12px Tahoma,Arial,sans-serif;
     display: block;
     color: #0d2972;
     float: left;}
-#nav li .v a:hover{color:#d62e38;
+#nav li .v a:hover{color: #d6131f;
     text-decoration: none;}
 #nav .kind_menu {height: 30px;
     width: 880px;
@@ -52,13 +47,13 @@ body, html{font:12px Tahoma,Arial,sans-serif;
     font-size: 12px;
     text-align: left;
     display: none;/*初始不显示*/}
-#nav .kind_menu a{color: #152026;
+#nav .kind_menu a{color: #323ad6;
     text-align: center;
     padding: 0 10px;
     font-family: Arial, Helvetica, sans-serif;}
 #nav .kind_menu a:hover{text-decoration: none;}
 #nav .kind_menu span{font-size: 10px;
-    color: #cecece;
+    color: #51ce41;
     line-height: 30px;}
 .cut_line{padding-top: 4px;
     display: inline-block;
